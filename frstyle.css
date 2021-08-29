@@ -1,0 +1,28 @@
+.main{
+    background-color: #18171f;
+}
+table{
+    border-bottom: #18171f solid 2px;
+    width: 100%;
+    border-collapse: collapse;
+}
+#rafif3o6{
+    background-color: #2e2c39;
+}
+#radif1{
+    background-color: #18171c;
+    height: 40px;
+}
+.radif{
+    background-color: #26232c;
+    height: 70px;
+    margin-bottom: 3px;
+    border-bottom: #18171f solid 2px;
+}
+td{
+    color: #cac8d3;
+    padding: 8px;
+}
+#rafif3o6>td{
+    color: #f2f1f7;
+}
